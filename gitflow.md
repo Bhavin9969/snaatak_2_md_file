@@ -33,6 +33,12 @@
 
 - The "feature" branch is the most common type of branch in the Git flow. It is used when working on a new feature or change, developers create a new branch ( feature ) off the **develop** branch. They make their changes in this feature branch and test them locally. **Feature** branch will merge to their parent 'develop' branch, instead of merging to 'main' branch. Means when a feature is complete, it gets merged back into **develop**, feature should never interact directly with **main**.
 
+![release](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/271f6c6e-eee5-44ec-b904-454320d7d096)
+
+- To understand "Release" branch, we can say - when it's time to prepare a new release, a release branch is created from the " develop " branch. and The branch is typically named 'release/a.b.c', where 'a.b.c' is the version number of the release. The code in the **release** branch is tested thoroughly to ensure that it meets the quality standards for release. This may include running automated tests, performing manual testing, and checking for compatibility with different environments. And once the code in the release branch is deemed ready for release, ( any final adjustments or documentation updates are made. ) the release is then prepared for deployment to production, and once it's ready to ship, the **release** branch gets merged into **main** and agged with a version number. In addition, it should be merged back into **develop**, which may have progressed since the release was initiated.
+
+- It helps to separate the release process from ongoing development work, making it easier to manage the release process and track changes in the codebase.
+
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
 # Advantages
