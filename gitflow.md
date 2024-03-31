@@ -29,6 +29,7 @@ GitFlow is a branching model and workflow for Git that helps teams manage their 
 | **1** | Using multiple separate branches in Git will provide flexibility. |
 | **2** | Gitflow makes developer speed up the process with familiar branch structure. |
 | **3** | It keep repository & process clean and tidy. |
+| **4** | Easy bug tracking because each feature or bugfix is developed in its own branch, it's easier to track changes and identify the source of bugs. |
 
 # Disadvantages
 | No.                   | Disadvantages                                                                                                     |
