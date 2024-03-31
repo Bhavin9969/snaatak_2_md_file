@@ -31,6 +31,17 @@ GitFlow is a branching model and workflow for Git that helps teams manage their 
 | **3** | It keep repository & process clean and tidy. |
 
 # Disadvantages
-| No.                   | Advantages                                                                                                     |
+| No.                   | Disadvantages                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **1** | Using multiple separate branches in Git will gets complex at sometimes. |
+
+## Contact Information
+|Name	|Email address |
+| --------------- | -------------- |
+|Bhavin|	[bhavin.panchal.snaatak@mygurukulam.co](https://www.gmail.com/)|
+
+## Reference
+|Description	|link|
+| :---------------: | :--------------: |
+| Gitflow workflow | https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow |
+| What is Gitflow | https://www.gitkraken.com/learn/git/git-flow |
