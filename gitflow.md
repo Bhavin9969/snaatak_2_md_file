@@ -8,7 +8,7 @@
 | Table of content|
 | --------------- |
 | 1. [Introduction](#intoduction)
-| 2. [Purpose](#purpose)
+| 2. [Why](#why)
 | 3. [Enhancement of GitFlow](#enhancement-of-gitflow-branches)
 | 4. [Advantages](#advantages)
 | 5. [Disadvantages](#disadvantages)
@@ -24,11 +24,11 @@
 
 - GitFlow is used to manage the branching and merging of code changes in a structured manner, especially in projects with longer development cycles and multiple contributors.
 
-| Why we use GitFlow|
-| --------------- |
+| Why we use GitFlow | Description | 
+| -------------------------- | ------------------|
 | **Clear Branching Model** | It provides a clear and organized branching model. |
-| **Parallel Development | With GitFlow, teams can work on multiple features or fixes simultaneously, as each one has its own branch. |
-| **Stable Release Process | The use of **release branch** in Gitflow ensures that the **main** branch always contains a stable version of the code, making it easier to manage releases and deploy to production. |
+| **Parallel Development** | With GitFlow, teams can work on multiple features or fixes simultaneously, as each one has its own branch. |
+| **Stable Release Process** | The use of **release branch** in Gitflow ensures that the **main** branch always contains a stable version of the code, making it easier to manage releases and deploy to production. |
 | **Easy Bug Tracking** | By using different branches it makes easier to identify and fix bugs. | 
 
 - In this article, we’ll cover the different branches in the Git flow workflow.
