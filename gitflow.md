@@ -18,11 +18,11 @@
 
 # Intoduction
 
-- Gitflow is a popular Git branching strategy aimed at simplifying release management. And Gitflow is an alternative Git branching model that involves the use of supporting branches and multiple primary branches. It was first published and made popular by **Vincent Driessen**.
+- Gitflow is a popular Git branching strategy aimed at simplifying release management. And Gitflow is an alternative Git branching model that involves the use of supporting branches and multiple primary branches. It was first published and made popular by **Vincent Driessen**. Git flow involves isolating your work into different types of Git branches.
 
 # Purpose
 
-- Fundamentally, Git flow involves isolating your work into different types of Git branches. In this article, we’ll cover the different branches in the Git flow workflow.
+- Fundamentally, It is provide a structured approach to managing code branches, particularly in projects with longer development cycles and multiple contributors. In this article, we’ll cover the different branches in the Git flow workflow.
 
 # Git Flow
 
