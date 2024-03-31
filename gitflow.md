@@ -28,7 +28,7 @@
 
 ![all](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/1c265178-1789-469f-8007-c65136478c5f)
 
-## Enhancement of GitFlow
+## Enhancement of GitFlow Branches
     
 ![main](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/78beda67-d68c-47dc-b5ed-0e9f35641ddb)
 
