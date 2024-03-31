@@ -9,7 +9,7 @@
 | --------------- |
 | 1. [Introduction](#intoduction)
 | 2. [Purpose](#purpose)
-| 3. [Enhancement of GitFlow](#enhancement-of-gitflow)
+| 3. [Enhancement of GitFlow](#enhancement-of-gitflow-branches)
 | 4. [Advantages](#advantages)
 | 5. [Disadvantages](#disadvantages)
 | 6. [Conclusion](#conclusion)
