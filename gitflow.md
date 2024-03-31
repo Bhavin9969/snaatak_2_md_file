@@ -29,6 +29,10 @@
 
 - And another main branch is "develop", and the **develop** branch serves as an integration branch for festures. The develop branch is created at the start of a project and is maintained throughout the development process, and contains pre-production code with newly developed features that are in the process of being tested. And we consider "develop" to be the main branch where the source code of head always reflects a state with the latest delivered development changes for the next release. And when the source code in the **develop** branch reaches a stable point and is ready to be released, all of the changes should be merged back into **master** and then tagged with a release number.
 
+![feature](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/81a10d79-6e1f-4c87-a034-cf90915361a4)
+
+- 
+
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
 # Advantages
