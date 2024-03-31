@@ -19,7 +19,11 @@
 
 # Purpose
 
-- Fundamentally, Git flow involves isolating your work into different types of Git branches. In this article, we’ll cover the different branches in the Git flow workflow. 
+- Fundamentally, Git flow involves isolating your work into different types of Git branches. In this article, we’ll cover the different branches in the Git flow workflow.
+    
+![main](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/78beda67-d68c-47dc-b5ed-0e9f35641ddb)
+
+- The central repo holds two main branches with an infinite lifeline, first one is "main" and another is "develop". First, let's talk about "main" branch, so The main branch should be familiar to every Git user. The **main** branch stores the official release history/production ready code. The main branch is created at the start of a project and is maintained throughout the development process and we consider **main** to be the main branch where the source code of head always reflects a production-ready state.
 
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
