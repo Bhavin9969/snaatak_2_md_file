@@ -41,7 +41,7 @@
 
 ![hotfix](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/9084b97d-724f-4fc6-b992-f53013a5a2a9)
 
-- 
+- "Hotfix" branches are used to quickly patch production releases. **Hotfix** branches are a lot like **release** and **feature** branches except they're based on **main** instead of **develop**. Having a deficated line of development for bug fixes from **main** lets your team address issues without interrupting. Means the **hotfix** branch is used to quickly address necessary changes in your main branch.
 
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
