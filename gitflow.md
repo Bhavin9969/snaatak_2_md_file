@@ -32,38 +32,34 @@
     
 ![main](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/78beda67-d68c-47dc-b5ed-0e9f35641ddb)
 
-<br>
+
 - The central repo holds two main branches with an infinite lifeline, first one is "main" and another is "develop". First, let's talk about "main" branch, so The main branch should be familiar to every Git user. The **main** branch stores the official release history/production ready code. The main branch is created at the start of a project and is maintained throughout the development process and we consider **main** to be the main branch where the source code of head always reflects a production-ready state.
 <br>
 <br>
 
 ![develop](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/c4317f64-9b64-4fd8-8826-1f64ed535328)
 
-<br>
+
 - And another main branch is "develop", and the **develop** branch serves as an integration branch for festures. The develop branch is created at the start of a project and is maintained throughout the development process, and contains pre-production code with newly developed features that are in the process of being tested. And we consider "develop" to be the main branch where the source code of head always reflects a state with the latest delivered development changes for the next release. And when the source code in the **develop** branch reaches a stable point and is ready to be released, all of the changes should be merged back into **master** and then tagged with a release number.
 <br>
 <br>
 
 ![feature](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/81a10d79-6e1f-4c87-a034-cf90915361a4)
 
-<br>
+
 - The "feature" branch is the most common type of branch in the Git flow. It is used when working on a new feature or change, developers create a new branch ( feature ) off the **develop** branch. They make their changes in this feature branch and test them locally. **Feature** branch will merge to their parent 'develop' branch, instead of merging to 'main' branch. Means when a feature is complete, it gets merged back into **develop**, feature should never interact directly with **main**.
 <br>
 <br>
 
 ![release](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/271f6c6e-eee5-44ec-b904-454320d7d096)
 
-<br>
 - To understand "Release" branch, we can say - when it's time to prepare a new release, a release branch is created from the " develop " branch. and The branch is typically named 'release/a.b.c', where 'a.b.c' is the version number of the release. The code in the **release** branch is tested thoroughly to ensure that it meets the quality standards for release. This may include running automated tests, performing manual testing, and checking for compatibility with different environments. And once the code in the release branch is deemed ready for release, ( any final adjustments or documentation updates are made here. ) the release is then prepared for deployment to production, and once it's ready to ship, the **release** branch gets merged into **main** and tagged with a version number. In addition, it should be merged back into **develop**, which may have progressed since the release was initiated.
 
 - It helps to separate the release process from ongoing development work, making it easier to manage the release process and track changes in the codebase.
 <br>
-<br>
 
 ![hotfix](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/9084b97d-724f-4fc6-b992-f53013a5a2a9)
 
-<br>
-<br>
 - "Hotfix" branches are used to quickly patch production releases. **Hotfix** branches are a lot like **release** and **feature** branches except they're based on **main** instead of **develop**. Having a dedicated line of development for bug fixes from **main** lets your team address issues without interrupting. Means the **hotfix** branch is used to quickly address necessary changes in your main branch. Inshort, the **hotfix** branch provides a quick and controlled way to address critical issues in the production code (**main**), ensuring that urgent problems can be fixed and deployed without disrupting ongoing development work. ( If a bug is found in the **main** branch, we create a new branch to fix that bug to avoid interrupting other branches. )
 
 
