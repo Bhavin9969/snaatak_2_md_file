@@ -93,3 +93,5 @@
 | :---------------: | :--------------: |
 | Gitflow workflow | https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow |
 | What is Gitflow | https://www.gitkraken.com/learn/git/git-flow |
+| Git branching model | https://nvie.com/posts/a-successful-git-branching-model/ |
+| Git Flow (youtube) | https://www.youtube.com/watch?v=6LhTe8Mz6jM |
