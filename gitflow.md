@@ -31,7 +31,7 @@
 
 ![feature](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/81a10d79-6e1f-4c87-a034-cf90915361a4)
 
-- 
+- The "feature" branch is the most common type of branch in the Git flow. It is used when working on a new feature or change, developers create a new branch ( feature ) off the **develop** branch. They make their changes in this feature branch and test them locally. **Feature** branch will merge to their parent 'develop' branch, instead of merging to 'main' branch. Means when a feature is complete, it gets merged back into **develop**, feature should never interact directly with **main**.
 
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
