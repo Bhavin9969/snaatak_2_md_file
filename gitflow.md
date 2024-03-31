@@ -39,6 +39,10 @@
 
 - It helps to separate the release process from ongoing development work, making it easier to manage the release process and track changes in the codebase.
 
+![hotfix](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/9084b97d-724f-4fc6-b992-f53013a5a2a9)
+
+- 
+
 GitFlow is a branching model and workflow for Git that helps teams manage their codebase more effectively.
 
 # Advantages
