@@ -1,6 +1,9 @@
+
+![git](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/67aa546c-4643-43ef-8f13-73f8581e1883)
+
 | Author | Created on | Version | Last updated by | Last edited on |
 | ------ | ---------- | ------- | --------------- | -------------- |
-| Bhavin    | 21-03-24   | version 1 | Bhavin         | 21-03-24       |
+| Bhavin    | 28-03-24   | version 1 | Bhavin         | 31-03-24       |
 
 | Table of content|
 | --------------- |
@@ -20,6 +23,12 @@
 # Purpose
 
 - Fundamentally, Git flow involves isolating your work into different types of Git branches. In this article, we’ll cover the different branches in the Git flow workflow.
+
+# Git Flow
+
+![all](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/1c265178-1789-469f-8007-c65136478c5f)
+
+## E
     
 ![main](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/78beda67-d68c-47dc-b5ed-0e9f35641ddb)
 
