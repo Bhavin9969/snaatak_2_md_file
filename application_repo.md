@@ -37,7 +37,6 @@
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Version Control** | It helps to track changes and revert to previous versions if needed. |
 | **Easy Collaboration** | It enables team members to work together on the same codebase. |
-| **Automation** | It integrates with CI/CD pipelines for automated build and deployment processes. |
 | **Enhanced Productivity** | Developers can trace every small change made to the code, making it easier to identify and resolve issues. This level of traceability saves time and effort. |
 
 ## Contact Information
