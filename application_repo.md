@@ -22,6 +22,8 @@
 
 # Purpose
 ### Why we need Application Repositories ?
+- Application repositories are important because they provide a structured and version controlled environment for managing the code and resources of an application.
+  
 | Why	| Description |
 | --------------- | -------------- |
 | Version Control |	It provides version control to tracks changes to code over time. |
