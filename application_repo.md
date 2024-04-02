@@ -39,6 +39,13 @@
 | **Easy Collaboration** | It enables team members to work together on the same codebase. |
 | **Enhanced Productivity** | Developers can trace every small change made to the code, making it easier to identify and resolve issues. This level of traceability saves time and effort. |
 
+# Disadvantages
+| No.                   | Disadvantages                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Maintenance** | Needs regulat maintenance to ensure repositories are up-to-date. |
+| **Complexity** | Application repositories are large enough so with many contributors can be complex. |
+| **Single repositories** | If you have one single application repository then one drawback of a single repository is that any change in one application changes the status of the whole repository. |
+
 ## Contact Information
 |Name	|Email address |
 | --------------- | -------------- |
