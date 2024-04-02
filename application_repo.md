@@ -16,7 +16,7 @@
 
 # Introduction
 
-- In this document we will learn about application repository, and application repositories are a type of repository used for storing all the files and resources related to a application, including its source code, configuration files, documentation, and other assets.
+- In this document we will learn about application repository, the basic definition of a repository is that it is a management directory for stroing, structuring, and describing different versions of digital objects. and here application repositories are a type of repository used for storing all the files and resources related to a application, including its source code, configuration files, documentation, and other assets.
 
 - These reositories play a crucial role in software development, providing a structured and version-controlled environment for developers to collaborate, track chenges, and manage the application's codebase.
 
@@ -27,7 +27,15 @@
 | Version Control |	It provides version control to tracks changes to code over time. |
 | Sharing is caring | You can Share knowledge or code with others and among team members for feedback and even contribute to open-source projects. |
 | Consistency | Ensure consistency across development, testing, and production environments. | 
+| Collaboration | Enables multiple developers to work on the same codebase simultaneously. |
+| Traceability | It provide a history of all changes made to the application code. |
 
+
+
+# Advantages
+| No.                   | Advantages                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1** | Using multiple sep
 
 ## Contact Information
 |Name	|Email address |
