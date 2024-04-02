@@ -25,7 +25,9 @@
 | Why	| Description |
 | --------------- | -------------- |
 | Version Control |	It provides version control to tracks changes to code over time. |
-| Sharing is caring | Share knowledge or code with others and among team members for feedback and even contribute to open-source projects.
+| Sharing is caring | You can Share knowledge or code with others and among team members for feedback and even contribute to open-source projects. |
+| Consistency | Ensure consistency across development, testing, and production environments. | 
+
 
 ## Contact Information
 |Name	|Email address |
