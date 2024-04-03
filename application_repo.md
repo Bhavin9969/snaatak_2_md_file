@@ -33,6 +33,7 @@
 | Collaboration | Enables multiple developers to work on the same codebase simultaneously. |
 | Traceability | It provide a history of all changes made to the application code. |
 | Dependencies Management | Repositories may include configuration files to specify dependencies and their versions. This helps in managing dependencies and ensuring consistent development environments. |
+| Scalability | It supports complex projects with numerous files for application development and contributors. |
 
 - application repositories serve as central hubs for collaboration, development, and distribution of software applications. Application repositorires are play a vital role in modern software development workflows, enabling teams to work together efficiently and deliver high-quality software products
 
