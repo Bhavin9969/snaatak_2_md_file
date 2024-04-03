@@ -20,8 +20,8 @@
 
 - These reositories play a crucial role in software development, providing a structured and version-controlled environment for developers to collaborate, track chenges, and manage the application's codebase. **Application repositories allow you to bring more powerful applications to market with less effort.**
 
-# Purpose
-### Why we need Application Repositories ?
+
+## Why we need Application Repositories ?
 - Application repositories are important because they provide a structured and version controlled environment for managing the code and resources of an application.
   
 | Why	| Description |
