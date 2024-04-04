@@ -25,16 +25,27 @@
   
 | Reasons	| Description |
 | --------------- | -------------- |
-| Version Control |	It provides version control to tracks changes to code over time. |
-| Organized Structure | A well-maintained application repository typically has a clear and organized structure. This includes directories for source code, documentation, configuration files, tests, and any other relevant resources. |
-| Sharing is caring | You can Share knowledge or code with others and among team members for feedback and even contribute to open-source projects. |
-| Consistency | Ensure consistency across development, testing, and production environments. | 
-| Collaboration | Enables multiple developers to work on the same codebase simultaneously. |
-| Traceability | It provide a history of all changes made to the application code. |
-| Dependencies Management | Repositories may include configuration files to specify dependencies and their versions. This helps in managing dependencies and ensuring consistent development environments. |
-| Scalability | It supports complex projects with numerous files for application development and contributors. |
+| **Version Control** |	It provides version control to tracks changes to code over time. |
+| **Organized Structure** | A well-maintained application repository typically has a clear and organized structure. This includes directories for source code, documentation, configuration files, tests, and any other relevant resources. |
+| **Sharing is caring** | You can Share knowledge or code with others and among team members for feedback and even contribute to open-source projects. |
+| **Consistency** | Ensure consistency across development, testing, and production environments. | 
+| **Collaboration** | Enables multiple developers to work on the same codebase simultaneously. |
+| **Traceability** | It provide a history of all changes made to the application code. |
+| **Dependencies Management** | Repositories may include configuration files to specify dependencies and their versions. This helps in managing dependencies and ensuring consistent development environments. |
+| **Scalability** | It supports complex projects with numerous files for application development and contributors. |
 
-- application repositories serve as central hubs for collaboration, development, and distribution of software applications. Application repositorires are play a vital role in modern software development workflows, enabling teams to work together efficiently and deliver high-quality software products
+- application repositories serve as central hubs for collaboration, development, and distribution of software applications. Application repositorires are play a vital role in modern software development workflows, enabling teams to work together efficiently and deliver high-quality software products. Here, ot-microservices is best example for application repositories.
+
+![Screenshot from 2024-04-04 12-46-22](https://github.com/Bhavin9969/snaatak_2_md_file/assets/164474264/ef1ee5d7-889a-4109-b86a-7d91763204ec)
+
+
+## List of Application Repositories
+
+|                    |                           |
+|-----|---------------|
+| **1** | GitHub |
+| **2** | GitLab |
+| **3** | Bitbucket |
 
 # Advantages
 | Aspects                   | Description                                                                                                     |
