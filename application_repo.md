@@ -38,14 +38,14 @@
 - application repositories serve as central hubs for collaboration, development, and distribution of software applications. Application repositorires are play a vital role in modern software development workflows, enabling teams to work together efficiently and deliver high-quality software products
 
 # Advantages
-| Concept                   | Description                                                                                                     |
+| Aspects                   | Description                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Version Control** | It helps to track changes and revert to previous versions if needed. |
 | **Easy Collaboration** | It enables team members to work together on the same codebase. |
 | **Enhanced Productivity** | Developers can trace every small change made to the code, making it easier to identify and resolve issues. This level of traceability saves time and effort. |
 
 # Disadvantages
-| No.                   | Description                                                                                                     |
+| Aspects                   | Description                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Maintenance** | Needs regulat maintenance to ensure repositories are up-to-date. |
 | **Complexity** | Application repositories are large enough so with many contributors can be complex. |
