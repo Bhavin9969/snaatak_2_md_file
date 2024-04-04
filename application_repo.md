@@ -6,11 +6,12 @@
 | --------------- |
 | 1. [Introduction](#introduction)
 | 2. [Why](#why-we-need-application-repositories-)
-| 3. [Advantages](#advantages)
-| 4. [Disadvantages](#disadvantages)
-| 5. [Conclusion](#conclusion)
-| 6. [Contact Information](#contact-information)
-| 7. [Reference](#reference)
+| 3. [List of Application Repositories](#list-of-application-repositories)
+| 4. [Advantages](#advantages)
+| 5. [Disadvantages](#disadvantages)
+| 6. [Conclusion](#conclusion)
+| 7. [Contact Information](#contact-information)
+| 8. [Reference](#reference)
 
 
 # Introduction
@@ -67,7 +68,7 @@
 ## Contact Information
 |Name	|Email address |
 | --------------- | -------------- |
-|Bhavin|	[bhavin.panchal.snaatak@mygurukulam.co](https://www.gmail.com/)|
+|**Bhavin**|	[bhavin.panchal.snaatak@mygurukulam.co](https://www.gmail.com/)|
 
 ## Reference
 |Link	|Description|
