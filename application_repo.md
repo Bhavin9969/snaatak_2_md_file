@@ -46,9 +46,9 @@
 
 | Type | Description                  |
 |-----|---------------|
-| GitHub | GitHub is like a virtual library for your software projects. It's a place where you can store all the files and resources related to your application, such as the source code, documentation, and images. |
-| GitLab | GitLab is similar to GitHub but offers additional features for managing the entire software development lifecycle. |
-| Bitbucket | Bitbucket is also a platform for hosting Git repositories or application repositories, similar to GitHub and GitLab. It offers features for code collaboration, such as pull requests and code reviews. |
+| **GitHub** | GitHub is like a virtual library for your software projects. It's a place where you can store all the files and resources related to your application, such as the source code, documentation, and images. |
+| **GitLab** | GitLab is similar to GitHub but offers additional features for managing the entire software development lifecycle. |
+| **Bitbucket** | Bitbucket is also a platform for hosting Git repositories or application repositories, similar to GitHub and GitLab. It offers features for code collaboration, such as pull requests and code reviews. |
 
 # Advantages
 | Aspects                   | Description                                                                                                     |
