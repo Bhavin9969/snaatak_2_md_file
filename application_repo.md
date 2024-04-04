@@ -4,7 +4,7 @@
 
 | Table of content|
 | --------------- |
-| 1. [Introduction](#intoduction)
+| 1. [Introduction](#introduction)
 | 2. [Why](#why-we-need-application-repositories-)
 | 3. [Advantages](#advantages)
 | 4. [Disadvantages](#disadvantages)
@@ -49,6 +49,9 @@
 | **Maintenance** | Needs regulat maintenance to ensure repositories are up-to-date. |
 | **Complexity** | Application repositories are large enough so with many contributors can be complex. |
 | **Single repositories** | If you have one single application repository then one drawback of a single repository is that any change in one application changes the status of the whole repository. |
+
+# Conclusion
+- Application repositories are essential components of modern software development practices. They provide a centralized and version-controlled environment for storing and managing all the files and resources related to an application. By using application repositories, development teams can collaborate more effectively, track changes, ensure version control, and streamline the software development process.
 
 ## Contact Information
 |Name	|Email address |
