@@ -5,13 +5,12 @@
 | Table of content|
 | --------------- |
 | 1. [Introduction](#intoduction)
-| 2. [Why](#why-we-use-gitflow)
-| 3. [Enhancement of GitFlow](#enhancement-of-gitflow-branches)
-| 4. [Advantages](#advantages)
-| 5. [Disadvantages](#disadvantages)
-| 6. [Conclusion](#conclusion)
-| 7. [Contact Information](#contact-information)
-| 8. [Reference](#reference)
+| 2. [Why](#why-we-need-application-repositories-)
+| 3. [Advantages](#advantages)
+| 4. [Disadvantages](#disadvantages)
+| 5. [Conclusion](#conclusion)
+| 6. [Contact Information](#contact-information)
+| 7. [Reference](#reference)
 
 
 # Introduction
@@ -24,7 +23,7 @@
 ## Why we need Application Repositories ?
 - Application repositories are important because they provide a structured and version controlled environment for managing the code and resources of an application.
   
-| Why	| Description |
+| Reasons	| Description |
 | --------------- | -------------- |
 | Version Control |	It provides version control to tracks changes to code over time. |
 | Organized Structure | A well-maintained application repository typically has a clear and organized structure. This includes directories for source code, documentation, configuration files, tests, and any other relevant resources. |
