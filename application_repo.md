@@ -61,5 +61,5 @@
 ## Reference
 |Link	|Description|
 | :---------------: | :--------------: |
-| https://www.ibm.com/docs/en/sapm/7.7.0.1?topic=tasks-application-repository | | Application repositories |
+| https://www.ibm.com/docs/en/sapm/7.7.0.1?topic=tasks-application-repository  | Application repositories |
 | https://www.quora.com/What-are-the-benefits-and-drawbacks-of-having-each-app-in-its-own-Github-repository-versus-having-all-apps-in-one-repository | What are the benefits and drawbacks |
