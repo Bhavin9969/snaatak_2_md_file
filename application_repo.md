@@ -38,14 +38,14 @@
 - application repositories serve as central hubs for collaboration, development, and distribution of software applications. Application repositorires are play a vital role in modern software development workflows, enabling teams to work together efficiently and deliver high-quality software products
 
 # Advantages
-| No.                   | Advantages                                                                                                     |
+| Concept                   | Description                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Version Control** | It helps to track changes and revert to previous versions if needed. |
 | **Easy Collaboration** | It enables team members to work together on the same codebase. |
 | **Enhanced Productivity** | Developers can trace every small change made to the code, making it easier to identify and resolve issues. This level of traceability saves time and effort. |
 
 # Disadvantages
-| No.                   | Disadvantages                                                                                                     |
+| No.                   | Description                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **Maintenance** | Needs regulat maintenance to ensure repositories are up-to-date. |
 | **Complexity** | Application repositories are large enough so with many contributors can be complex. |
@@ -57,6 +57,7 @@
 |Bhavin|	[bhavin.panchal.snaatak@mygurukulam.co](https://www.gmail.com/)|
 
 ## Reference
-|Description	|link|
+|Link	|Description|
 | :---------------: | :--------------: |
-| Ap | |
+| https://www.ibm.com/docs/en/sapm/7.7.0.1?topic=tasks-application-repository | | Application repositories |
+| https://www.quora.com/What-are-the-benefits-and-drawbacks-of-having-each-app-in-its-own-Github-repository-versus-having-all-apps-in-one-repository | What are the benefits and drawbacks |
